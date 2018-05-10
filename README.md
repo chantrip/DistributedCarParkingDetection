@@ -12,14 +12,14 @@
  1. Clone this repository :
 
     ```bash
-    git clone --recursive https://github.com/xxxx
+    git clone --recursive https://github.com/Chaiyaboon-Sruayiam/fastpark.git
     ```
 
  2. Download the datasets using the following links and extract them somewhere.
 
     | Dataset | Link | Size | 
     | ------- | ---- | ---: |
-    | SWUPark | http://ourweb.in.th/dataset/SWUPark.zip | 69.6 MB |
+    | SWUPark | http://ourweb.in.th/dataset/SWUPark.zip | 10.6 MB |
 
  3. Extract SWUPark dataset zip file
     ```bash
