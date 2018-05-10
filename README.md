@@ -25,7 +25,7 @@
     ```bash
     unzip SWUPark.zip
     ```
- 4. Edit lines inside train_script.py and inside the code you need to fill the directories before execute this code
+ 4. Edit lines inside train_script.py and fill the directories before execute this code
     ```bash
     train_labels_path = "<where is your train_label.txt>"
     val_labels_path = "<where is your validate_label.txt>"
@@ -40,7 +40,7 @@
     #and then you will get the weight (.h5) file.
     ```
 
- 6. Edit lines inside test_script.py and inside the code you need to fill the directories before execute this code
+ 6. Edit lines inside test_script.py and fill the directories before execute this code
     ```bash
     labels_path = "<where is your test_label.txt>"
     root_images_folder = "<root of test image set directory>"
