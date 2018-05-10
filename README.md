@@ -15,11 +15,11 @@
     git clone --recursive https://github.com/Chaiyaboon-Sruayiam/fastpark.git
     ```
 
- 2. Download the datasets using the following links and extract them somewhere.
+ 2. Download the datasets using the following links and extract them somewhere
 
     | Dataset | Link | Size | 
     | ------- | ---- | ---: |
-    | SWUPark | http://ourweb.in.th/dataset/SWUPark.zip | 10.6 MB |
+    | SWUPark | https://drive.google.com/drive/folders/1xORzZ3pPnu4AvrcaEgHLwvEaSB0f1dwY?usp=sharing | 64.0 MB |
 
  3. Extract SWUPark dataset zip file
     ```bash
