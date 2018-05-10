@@ -19,7 +19,7 @@
 
     | Dataset | Link | Size | 
     | ------- | ---- | ---: |
-    | SWUPark | https://drive.google.com/drive/folders/1xORzZ3pPnu4AvrcaEgHLwvEaSB0f1dwY?usp=sharing | 64.0 MB |
+    | SWUPark | https://drive.google.com/open?id=1WpB3YlcAskGdzJofWESCMv3IybRWIadr | 64.0 MB |
 
  3. Extract SWUPark dataset zip file
     ```bash
