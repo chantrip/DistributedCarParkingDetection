@@ -12,7 +12,7 @@
  1. Clone this repository :
 
     ```bash
-    git clone --recursive https://github.com/Chaiyaboon-Sruayiam/fastpark.git
+    git clone --recursive https://github.com/chantrip/DistributedCarParkingDetection.git
     ```
 
  2. Download the datasets using the following links and extract them somewhere
