@@ -36,7 +36,7 @@
  5. Execute your train python script
     ```bash
     #train script
-    py train_script.py
+    py keras_train_script.py
     #and then you will get the weight (.h5) file.
     ```
 
@@ -51,7 +51,7 @@
 7. Execute your test python script
     ```bash
     #test script
-    py test_script.py
+    py keras_test_script.py
     #and then you will get the text as a result (.final).
     #you can open .final file by common text editor.
     ```
